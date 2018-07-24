@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/EduardoRotundaro/algorithms/master/README/test.png)
+
+---
+
 # About
 Just implementations of some algorithms.
 
