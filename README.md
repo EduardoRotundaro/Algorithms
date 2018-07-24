@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/EduardoRotundaro/algorithms/master/README/head.png)
+![](https://raw.githubusercontent.com/EduardoRotundaro/algorithms/master/README/rm_image.png)
 
 ---
 
