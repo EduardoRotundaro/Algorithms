@@ -7,4 +7,4 @@ Just implementations of some algorithms.
 
 #### Sorting
 
-* [Counting](https://github.com/EduardoRotundaro/competitive-programming/blob/master/src/bfs/BFS.cpp)
+* [Counting](https://github.com/EduardoRotundaro/algorithms/blob/master/src/sorting/counting.cpp)
